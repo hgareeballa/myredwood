@@ -31,8 +31,8 @@ const BlogLayout = ({ children }) => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to={routes.home()}>
-                Pricing
+              <Link className="nav-link" to={routes.contact()}>
+                Contact
               </Link>
             </li>
           </ul>
